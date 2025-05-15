@@ -22,7 +22,7 @@ jobs:
 
       - name: build
         env:
-          BASE_PATH: "/${{ github.event.repository.name }}"
+          BASE_PATH: "/solcraft.dev"
         run: |
           npm run build
 
