@@ -21,7 +21,7 @@
             >
         </md-outlined-icon-button>
         <ul class="links" class:shown={navShown}>
-            {#each [["/", "Home"], ["/downloads", "Mods"], ["/wiki", "Wiki"]] as [href, display]}
+            {#each [["/", "Home"], ["/cursedcreations/downloads", "Mods"], ["/cursedcreations/wiki", "Wiki"]] as [href, display]}
                 <li><a {href}>{display}</a></li>
             {/each}
         </ul>
