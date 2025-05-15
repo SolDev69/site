@@ -4,13 +4,24 @@ on:
   [workflow_dispatch, push]
 
 jobs:
-  message:
+  message-sclcord:
     runs-on: ubuntu-latest
     steps:
     - name: Discord Webhook Action
       uses: tsickert/discord-webhook@v5.3.0
       with:
-        webhook-url: ${{ secrets.DISCORD_WEBHOOK_URL }}
+        webhook-url: ${{ secrets.DISCORD_SCLCORD_WEBHOOK_URL }}
+        embed-title: ${{ github.event.repository.owner.name }}/${{ github.event.repository.name }}
+        embed-description: ${{ github.event.head_commit.message }}
+        avatar-url: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
+
+  message-mesacord:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Discord Webhook Action
+      uses: tsickert/discord-webhook@v5.3.0
+      with:
+        webhook-url: ${{ secrets.DISCORD_MESACORD_WEBHOOK_URL }}
         embed-title: ${{ github.event.repository.owner.name }}/${{ github.event.repository.name }}
         embed-description: ${{ github.event.head_commit.message }}
         avatar-url: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
