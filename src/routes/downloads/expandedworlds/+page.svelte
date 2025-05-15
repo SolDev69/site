@@ -6,7 +6,7 @@
 <p>
     These are special mods that expand Minecraft beyond the 32bit integer limit. These 64bit and BigInteger mods let you teleport trillions of blocks away, visiting the native Java Edition farlands, and viewing where the farlands ended up after they got "patched" in beta 1.8.
     <br />
-    Please inform me if I do not have permission to upload any of these mods. This site should only contain the mods I am allowed to.
+    Please inform me if I do not have permission to upload any of these mods. This site should only contain the mods I am allowed to distribute.
     <a href="#biginteger">Click here to scroll to the BigInteger downloads section</a>
 </p>
 
