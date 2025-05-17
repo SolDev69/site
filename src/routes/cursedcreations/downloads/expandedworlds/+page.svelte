@@ -47,7 +47,7 @@
 <h2>Alpha:</h2>
 <h3>Alpha v1.0.1_01 (Zeta and Zero)</h3>
 <p class="note">
-    Note from Zeta: Some of these files were solely uploaded in a Discord server that no longer has any affiliation to Cursed Creations Inc. If you have any of these missing versions, please send them in the <a href="https://discord.gg/gBXj5j55uf">new official Discord server</a> for us to upload them, as I kinda forgot to backup these files and lost the source code.
+    Note from Zeta: Some of these files were solely uploaded in a Discord server that no longer has any affiliation to Cursed Creations Inc. If you have any of these missing versions, please send them in the <a href="https://discord.gg/FtG7r7wHwS">new official Discord server</a> for us to upload them, as I kinda forgot to backup these files and lost the source code.
 </p>
 <ul>
     <li>

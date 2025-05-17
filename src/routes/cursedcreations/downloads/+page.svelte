@@ -11,5 +11,5 @@
     <li><a href="/cursedcreations/downloads/fringelands_mod">Allam A's Fringelands</a></li>
 </ul>
 <p>
-    For any support, contact the Cursed Creations team at <a href="https://discord.gg/gBXj5j55uf">our Discord server</a>
+    For any support, contact the Cursed Creations team at <a href="https://discord.gg/FtG7r7wHwS">our Discord server</a>
 </p>
