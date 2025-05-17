@@ -7,7 +7,7 @@
 <h1>Cursed Creations Minecraft Mods</h1>
 <ul>
     <li><a href="/cursedcreations/downloads/expandedworlds">World Expansion (64bit and BigInteger Worldgen)</a></li>
-    <li><a href="/cursedcreations/downloads/soltweaks">ZetaForged (v1/v2)</a></li>
+    <li><a href="/cursedcreations/downloads/soltweaks">SolTweaks</a></li>
     <li><a href="/cursedcreations/downloads/fringelands_mod">Allam A's Fringelands</a></li>
 </ul>
 <p>
