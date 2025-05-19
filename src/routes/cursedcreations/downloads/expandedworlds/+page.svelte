@@ -176,6 +176,12 @@
     </li>
 </ul>
 <h2 id="biginteger">Unlimited Worldgen (BigInteger mods)</h2>
+<h3>inf-20100630 (Zero)</h3>
+<ul>
+    <li>
+        <a href="/cursedcreations/mods/unlimited/infdev/inf-20100630/minecraft-infdev-20100630-1-v1.35-zero.zip">v1.35 (Latest)</a>
+    </li>
+</ul>
 <h3>1.20.1 (AlphaMode)</h3>
 <ul>
     <li>
