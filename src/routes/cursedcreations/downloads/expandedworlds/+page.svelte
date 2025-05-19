@@ -176,6 +176,12 @@
     </li>
 </ul>
 <h2 id="biginteger">Unlimited Worldgen (BigInteger mods)</h2>
+<h3>b1.7.3 (AlphaMode)</h3>
+<ul>
+    <li>
+        <a href="/cursedcreations/mods/unlimited/beta/b1.7.3/beta-mcbig-GIT.jar>Latest Version (Git)</a>
+    </li>
+</ul>
 <h3>inf-20100630 (Zero)</h3>
 <ul>
     <li>
