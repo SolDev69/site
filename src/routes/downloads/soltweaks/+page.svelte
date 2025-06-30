@@ -1,5 +1,5 @@
 <svelte:head>
-    <title>Cursed Creations | ZetaForged</title>
+    <title>Horizons Modding | ZetaForged</title>
 </svelte:head>
 
 <h1>ZetaForged</h1>

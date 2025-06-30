@@ -1,5 +1,5 @@
 <svelte:head>
-    <title>Cursed Creations | Allam A's Fringelands</title>
+    <title>Horizons Modding | Allam A's Fringelands</title>
 </svelte:head>
 
 <h1>Allam A's Fringelands Mod</h1>

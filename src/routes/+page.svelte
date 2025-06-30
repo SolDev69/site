@@ -2,11 +2,11 @@
 <!--  -->
 
 <svelte:head>
-    <title>SolCraftDevelopers | Home</title>
+    <title>Horizons Modding | Home</title>
 </svelte:head>
 
 <p>
-    Hello, you're probably looking for this: <a href="/cursedcreations/downloads">new archive</a>
+    Hello, you're probably looking for this: <a href="/downloads">new archive</a>
 </p>
 
 <style>

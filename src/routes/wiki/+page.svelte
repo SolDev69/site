@@ -1,5 +1,5 @@
 <svelte:head>
-    <title>Cursed Creations | Wiki</title>
+    <title>Horizons Modding | Wiki</title>
 </svelte:head>
 
 <h1>Wiki</h1>
